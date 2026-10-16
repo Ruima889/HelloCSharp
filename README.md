@@ -1,3 +1,5 @@
-## Hello CSharp
+# HELLO CSHARP
 
-this is my c# programe
+this is my c# program.
+
+this is my favorite game project.
